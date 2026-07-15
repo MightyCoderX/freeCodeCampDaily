@@ -1,5 +1,4 @@
-/*
-Pet Age Calculator
+/* Pet Age Calculator
 
 Given a pet type and age in human years, return the equivalent
 age in pet years using the following conversion table:
